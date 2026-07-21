@@ -355,15 +355,7 @@ research_published: true
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=syedebtisamali&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=C9AF6E&icon_color=9CA3AF&text_color=c9d1d9">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=syedebtisamali&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=8A6D2F&icon_color=5A5A5A&text_color=1A1A1A">
-</picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=syedebtisamali&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=C9AF6E&text_color=c9d1d9">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedebtisamali&layout=compact&theme=default&hide_border=true&bg_color=FFFFFF&title_color=8A6D2F&text_color=1A1A1A">
-</picture>
 
 <br/>
 
@@ -387,13 +379,6 @@ research_published: true
 </picture>
 
 <sub>Renders instantly from your commit history — no GitHub Action required.</sub>
-
-### Trophy Case
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=syedebtisamali&theme=darkhub&no-frame=true&row=1&column=7">
-  <img src="https://github-profile-trophy.vercel.app/?username=syedebtisamali&theme=flat&no-frame=true&row=1&column=7">
-</picture>
 
 </div>
 
