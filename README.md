@@ -389,4 +389,22 @@ fun_fact: "I teach computers to think — one Rubik's Cube at a time 🧩"
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7928CA,100:F72585&height=3&width=100%" width="100%"/>
+
+## 🎲 Random Corner
+
+<div align="center">
+
+**💭 Quote of the moment** *(changes every visit)*
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+
+<br/>
+
+**😂 Dev joke of the moment** *(changes every visit)*
+
+<img src="https://readme-jokes.vercel.app/api?theme=radical"/>
+
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,25:7928CA,50:6366F1,75:22D3EE,100:00F5A0&height=150&section=footer" width="100%"/>
