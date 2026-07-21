@@ -32,10 +32,7 @@
 
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:2A2A2A,100:2A2A2A&height=2&width=100%">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E5E7EB,100:E5E7EB&height=2&width=100%" width="100%">
-</picture>
+
 
 <a name="about"></a>
 
@@ -68,10 +65,7 @@ research_published: true
 </tr>
 </table>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:2A2A2A,100:2A2A2A&height=2&width=100%">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E5E7EB,100:E5E7EB&height=2&width=100%" width="100%">
-</picture>
+
 
 <a name="tech-stack"></a>
 
@@ -128,10 +122,7 @@ research_published: true
 
 </details>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:2A2A2A,100:2A2A2A&height=2&width=100%">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E5E7EB,100:E5E7EB&height=2&width=100%" width="100%">
-</picture>
+
 
 <a name="projects"></a>
 
@@ -243,10 +234,7 @@ research_published: true
 
 </details>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:2A2A2A,100:2A2A2A&height=2&width=100%">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E5E7EB,100:E5E7EB&height=2&width=100%" width="100%">
-</picture>
+
 
 <a name="research"></a>
 
@@ -260,10 +248,7 @@ research_published: true
 
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:2A2A2A,100:2A2A2A&height=2&width=100%">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E5E7EB,100:E5E7EB&height=2&width=100%" width="100%">
-</picture>
+
 
 <a name="certifications"></a>
 
@@ -362,10 +347,7 @@ research_published: true
 
 </details>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:2A2A2A,100:2A2A2A&height=2&width=100%">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E5E7EB,100:E5E7EB&height=2&width=100%" width="100%">
-</picture>
+
 
 <a name="stats"></a>
 
@@ -415,10 +397,7 @@ research_published: true
 
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:2A2A2A,100:2A2A2A&height=2&width=100%">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E5E7EB,100:E5E7EB&height=2&width=100%" width="100%">
-</picture>
+
 
 ## Quote of the Moment
 
@@ -431,10 +410,7 @@ research_published: true
 
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:2A2A2A,100:2A2A2A&height=2&width=100%">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E5E7EB,100:E5E7EB&height=2&width=100%" width="100%">
-</picture>
+
 
 <a name="contact"></a>
 
