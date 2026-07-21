@@ -1,9 +1,14 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F2937&height=230&section=header&text=SYED%20EBTISAM%20ALI&fontSize=46&fontColor=F5F5F5&animation=fadeIn&fontAlignY=38&desc=IT%20Director%20%C2%B7%20Builder%20%C2%B7%20AI%20Tinkerer%20%C2%B7%20Researcher&descAlignY=58&descSize=17&descColor=C9AF6E"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:E5E7EB&height=230&section=header&text=SYED%20EBTISAM%20ALI&fontSize=46&fontColor=1A1A1A&animation=fadeIn&fontAlignY=38&desc=IT%20Director%20%C2%B7%20Builder%20%C2%B7%20AI%20Tinkerer%20%C2%B7%20Researcher&descAlignY=58&descSize=17&descColor=8A6D2F" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <img src="assets/hero-light.svg" width="100%">
 </picture>
+
+<br/><br/>
+
+<h1 align="center">Syed Ebtisam Ali</h1>
+<p align="center"><i>IT Director · Builder · AI Tinkerer · Researcher</i></p>
 
 <a href="https://github.com/syedebtisamali">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C+I'm+Ebtisam;IT+Director+%40+an+NGO;College+Student+%C2%B7+Builder;Python+%C2%B7+C%2FC%2B%2B+%C2%B7+JS+%C2%B7+AI;30%2B+Projects+%C2%B7+30%2B+Certifications&font=Fira+Code&center=true&width=650&height=45&duration=3200&pause=900&color=9CA3AF&vCenter=true&size=20"/>
@@ -28,13 +33,13 @@
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:2A2A2A,100:2A2A2A&height=2&width=100%"/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E5E7EB,100:E5E7EB&height=2&width=100%" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:2A2A2A,100:2A2A2A&height=2&width=100%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E5E7EB,100:E5E7EB&height=2&width=100%" width="100%">
 </picture>
 
 <a name="about"></a>
 
-## About
+## <img src="assets/icon-about.svg" width="26" valign="middle"> &nbsp;About
 
 <table>
 <tr>
@@ -64,13 +69,13 @@ research_published: true
 </table>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:2A2A2A,100:2A2A2A&height=2&width=100%"/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E5E7EB,100:E5E7EB&height=2&width=100%" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:2A2A2A,100:2A2A2A&height=2&width=100%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E5E7EB,100:E5E7EB&height=2&width=100%" width="100%">
 </picture>
 
 <a name="tech-stack"></a>
 
-## Tech Stack
+## <img src="assets/icon-skills.svg" width="26" valign="middle"> &nbsp;Tech Stack
 
 <div align="center">
 
@@ -124,13 +129,13 @@ research_published: true
 </details>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:2A2A2A,100:2A2A2A&height=2&width=100%"/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E5E7EB,100:E5E7EB&height=2&width=100%" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:2A2A2A,100:2A2A2A&height=2&width=100%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E5E7EB,100:E5E7EB&height=2&width=100%" width="100%">
 </picture>
 
 <a name="projects"></a>
 
-## Projects
+## <img src="assets/icon-projects.svg" width="26" valign="middle"> &nbsp;Projects
 
 <div align="center">
 
@@ -239,13 +244,13 @@ research_published: true
 </details>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:2A2A2A,100:2A2A2A&height=2&width=100%"/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E5E7EB,100:E5E7EB&height=2&width=100%" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:2A2A2A,100:2A2A2A&height=2&width=100%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E5E7EB,100:E5E7EB&height=2&width=100%" width="100%">
 </picture>
 
 <a name="research"></a>
 
-## Research
+## <img src="assets/icon-research.svg" width="26" valign="middle"> &nbsp;Research
 
 <div align="center">
 
@@ -256,13 +261,13 @@ research_published: true
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:2A2A2A,100:2A2A2A&height=2&width=100%"/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E5E7EB,100:E5E7EB&height=2&width=100%" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:2A2A2A,100:2A2A2A&height=2&width=100%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E5E7EB,100:E5E7EB&height=2&width=100%" width="100%">
 </picture>
 
 <a name="certifications"></a>
 
-## Certifications & Achievements
+## <img src="assets/icon-certs.svg" width="26" valign="middle"> &nbsp;Certifications &amp; Achievements
 
 <div align="center">
 <img src="https://img.shields.io/badge/30%2B-Certifications-1A1A1A?style=for-the-badge"/>
@@ -358,45 +363,45 @@ research_published: true
 </details>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:2A2A2A,100:2A2A2A&height=2&width=100%"/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E5E7EB,100:E5E7EB&height=2&width=100%" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:2A2A2A,100:2A2A2A&height=2&width=100%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E5E7EB,100:E5E7EB&height=2&width=100%" width="100%">
 </picture>
 
 <a name="stats"></a>
 
-## GitHub Analytics
+## <img src="assets/icon-stats.svg" width="26" valign="middle"> &nbsp;GitHub Analytics
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=syedebtisamali&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=C9AF6E&icon_color=9CA3AF&text_color=c9d1d9"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=syedebtisamali&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=8A6D2F&icon_color=5A5A5A&text_color=1A1A1A"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=syedebtisamali&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=C9AF6E&icon_color=9CA3AF&text_color=c9d1d9">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=syedebtisamali&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=8A6D2F&icon_color=5A5A5A&text_color=1A1A1A">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=syedebtisamali&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=C9AF6E&text_color=c9d1d9"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedebtisamali&layout=compact&theme=default&hide_border=true&bg_color=FFFFFF&title_color=8A6D2F&text_color=1A1A1A"/>
-</picture>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=syedebtisamali&theme=github-dark-blue&hide_border=true&background=0D1117&ring=C9AF6E&fire=C9AF6E&currStreakLabel=C9AF6E"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedebtisamali&theme=default&hide_border=true&background=FFFFFF&ring=8A6D2F&fire=8A6D2F&currStreakLabel=8A6D2F"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=syedebtisamali&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=C9AF6E&text_color=c9d1d9">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedebtisamali&layout=compact&theme=default&hide_border=true&bg_color=FFFFFF&title_color=8A6D2F&text_color=1A1A1A">
 </picture>
 
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=syedebtisamali&theme=github-compact&hide_border=true&bg_color=0D1117&color=C9AF6E&line=C9AF6E&point=FFFFFF"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=syedebtisamali&theme=minimal&hide_border=true&bg_color=FFFFFF&color=8A6D2F&line=8A6D2F&point=1A1A1A"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=syedebtisamali&theme=github-dark-blue&hide_border=true&background=0D1117&ring=C9AF6E&fire=C9AF6E&currStreakLabel=C9AF6E">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedebtisamali&theme=default&hide_border=true&background=FFFFFF&ring=8A6D2F&fire=8A6D2F&currStreakLabel=8A6D2F">
+</picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=syedebtisamali&theme=github-compact&hide_border=true&bg_color=0D1117&color=C9AF6E&line=C9AF6E&point=FFFFFF">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=syedebtisamali&theme=minimal&hide_border=true&bg_color=FFFFFF&color=8A6D2F&line=8A6D2F&point=1A1A1A">
 </picture>
 
 ### Contribution Heatmap
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/C9AF6E/syedebtisamali"/>
-  <img src="https://ghchart.rshah.org/1A1A1A/syedebtisamali" width="80%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/C9AF6E/syedebtisamali">
+  <img src="https://ghchart.rshah.org/1A1A1A/syedebtisamali" width="80%">
 </picture>
 
 <sub>Renders instantly from your commit history — no GitHub Action required.</sub>
@@ -404,36 +409,36 @@ research_published: true
 ### Trophy Case
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=syedebtisamali&theme=darkhub&no-frame=true&row=1&column=7"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=syedebtisamali&theme=flat&no-frame=true&row=1&column=7"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=syedebtisamali&theme=darkhub&no-frame=true&row=1&column=7">
+  <img src="https://github-profile-trophy.vercel.app/?username=syedebtisamali&theme=flat&no-frame=true&row=1&column=7">
 </picture>
 
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:2A2A2A,100:2A2A2A&height=2&width=100%"/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E5E7EB,100:E5E7EB&height=2&width=100%" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:2A2A2A,100:2A2A2A&height=2&width=100%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E5E7EB,100:E5E7EB&height=2&width=100%" width="100%">
 </picture>
 
-## Random Corner
+## Quote of the Moment
 
 <div align="center">
 
-**Quote of the moment** *(changes every visit)*
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light">
 </picture>
 
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:2A2A2A,100:2A2A2A&height=2&width=100%"/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E5E7EB,100:E5E7EB&height=2&width=100%" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:2A2A2A,100:2A2A2A&height=2&width=100%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E5E7EB,100:E5E7EB&height=2&width=100%" width="100%">
 </picture>
 
-## Contact
+<a name="contact"></a>
+
+## <img src="assets/icon-contact.svg" width="26" valign="middle"> &nbsp;Contact
 
 <div align="center">
 
@@ -451,6 +456,6 @@ research_published: true
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1F2937,100:0D1117&height=130&section=footer"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E5E7EB,100:FFFFFF&height=130&section=footer" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1F2937,100:0D1117&height=130&section=footer">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E5E7EB,100:FFFFFF&height=130&section=footer" width="100%">
 </picture>
